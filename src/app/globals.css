@@ -2,6 +2,291 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  font-family:BreeGRK-Regular, Bree GRK;
+}
+.background{
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
+
+.container_head{
+  background-image: url("/svg_onda.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display:flex;
+  justify-content: space-around;
+  width: 100%;
+  position: relative;
+}
+.svg_menu{
+  position:absolute; 
+  width:100%; 
+  z-Index:-1;
+}
+.menu ul{
+  display: flex;
+}
+.menu ul li{
+  padding: 1rem;
+  cursor: pointer;
+}
+.menu ul li:hover{
+  color:#00265b;
+  
+  
+}
+
+.logotipo{
+  margin:1rem;
+}
+
+
+.titulo{
+  width:50%; 
+  padding:5rem; 
+  margin-Bottom:4rem;
+}
+.titulo_principal{
+  font-Size:70px; 
+  color:#00265b; 
+  font-Family:BreeGRK-Regular, Bree GRK; 
+  font-Weight:700;
+}
+.titulo_sub{
+  font-Family:Poppins, sans-serif;
+}
+
+.secondSection{
+  background-image: url('/Ativo 5.svg');
+  background-size: cover;
+  width: 100%;
+  
+  display: flex;
+  align-items: center;
+  position: relative;
+
+
+}
+.geral{
+  display:flex;
+  
+  width:100%; 
+  position: relative;
+}
+.valores{
+
+   width:80% ; 
+   display:flex ;
+   flex-direction: column;
+  
+  padding-top:10%;
+  padding-bottom:3%;
+   margin-left: 2rem;
+  align-items: center;
+   
+   
+   
+}
+.valores span{
+  color: #011633;
+  font-family:BreeGRK-Regular, Bree GRK;
+  font-weight: 700;
+  font-size: 50px;
+}
+.valores h1{
+  font-family:Poppins, sans-serif;
+}
+
+.imgClinica{
+  
+  
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ flex-wrap: nowrap;
+ align-items: center;
+}
+.img_slid{
+  width: 30%; 
+  margin:.5rem;
+}
+
+.galleryRef{
+  display: flex; 
+  align-Items: center; 
+  width: 100%; 
+  overflow: hidden; 
+  white-Space: nowrap;
+}
+
+
+.svg{
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  border: yellow solid 1px;
+}
+
+
+.especialidades{
+  background-image: url('/bk_especialidades.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position:relative;
+  
+  
+}
+.txt_espec{
+  width:40%;
+  
+}
+.txt_espec h1{
+  font-size: 80px;
+  color: #fff;
+  font-Family:BreeGRK-Regular, Bree GRK; 
+  font-Weight:700;
+}
+.txt_espec span{
+  font-family:Poppins, sans-serif;
+  color: #00ffff;
+  
+  
+}
+
+
+
+
+
+.containerEquipe{
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    background-color:#fcfcfc ;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    
+  
+}
+.txtEquipe{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  width: 100%;
+  display: flex;
+  justify-items: center;
+  margin-bottom: 2rem;
+  
+}
+.txtEquipe h1{
+  
+  
+  
+  font-size: 80px;
+  color:#00265b;
+  font-family:BreeGRK-Regular, Bree GRK;
+  font-weight: 700;
+  text-align: center;
+}
+.txtEquipe h3{
+  color: darkgrey;
+  font-size: 18px;
+}
+.quadroIndividual{
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100%;
+  margin-top: .5rem;
+  
+}
+.individual{
+  
+  border: #dadada 1px solid;
+  border-radius: 5%;
+  max-width: 20%;
+  padding: .5rem;
+  margin-top: 1rem;
+
+}
+.card{
+  
+  width: 100%;
+}
+.identificaçãoProf{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.identificaçãoProf span{
+  color: #011633;
+  font-family:BreeGRK-Regular, Bree GRK;
+  border-bottom: #dadada 2px solid;
+  margin-bottom: .5rem;
+}
+.destalheProf h3{
+  font-size: 14px;
+  color: #0e0e0e;
+  font-family:Poppins, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+
+
+
+
+.footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #011633;
+  width: 100%;
+  padding: 2rem;
+}
+.clinica_footer h1{
+  color: #fff;
+  margin-top: 1rem;
+
+}
+.icon_redes{
+  
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem;
+}
+
+.especialidades_footer span{
+  color: #fff;
+  font-size: 16px;
+  
+
+
+}
+.especialidades_footer li{
+  color: #fcfcfc;
+  font-size: 14px;
+}
+.contatos_footer{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -16,18 +301,405 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Camada_1{
+  width: 40%;
+  
+  margin: 1rem;
+
+}
+
+
+.cls-1 {
+  fill: #00265b;
+}
+
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+  isolation: isolate;
+}
+
+
+.cls-3, .cls-4 {
+  font-size: 19.23px;
+}
+
+.cls-20, .cls-21, .cls-22, .cls-23, .cls-29, .cls-3, .cls-30, .cls-4, .cls-7, .cls-8, .cls-9 {
+  fill: #fff;
+}
+
+.testeCor:hover {
+  fill:#00ffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+  font-family: BreeGRK-Regular, Bree GRK;
+}
+
+.cls-4 {
+  letter-spacing: -0.02em;
+}
+
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-31, .cls-5 {
+  fill: #67c0bf;
+}
+
+.cls-6 {
+  font-size: 39.27px;
+}
+
+.cls-18, .cls-6 {
+  fill: #fbb03b;
+}
+
+.cls-20, .cls-21, .cls-22, .cls-23, .cls-29, .cls-30, .cls-7, .cls-8, .cls-9 {
+  font-size: 19.79px;
+}
+
+.cls-8 {
+  letter-spacing: -0.01em;
+}
+
+.cls-9 {
+  letter-spacing: -0.01em;
+}
+
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-31 {
+  font-size: 12px;
+}
+
+.cls-10 {
+  letter-spacing: -0.01em;
+}
+
+.cls-12 {
+  letter-spacing: -0.01em;
+}
+
+.cls-13 {
+  letter-spacing: -0.01em;
+}
+
+.cls-14 {
+  letter-spacing: -0.02em;
+}
+
+.cls-15 {
+  letter-spacing: -0.02em;
+}
+
+.cls-16 {
+  letter-spacing: -0.01em;
+}
+
+.cls-17 {
+  letter-spacing: -0.01em;
+}
+
+.cls-18 {
+  font-size: 40.41px;
+}
+
+.cls-19 {
+  letter-spacing: -0.07em;
+}
+
+.cls-20 {
+  letter-spacing: -0.02em;
+}
+
+.cls-21 {
+  letter-spacing: -0.01em;
+}
+
+.cls-22 {
+  letter-spacing: -0.02em;
+}
+
+.cls-23 {
+  letter-spacing: -0.02em;
+}
+
+.cls-24 {
+  letter-spacing: -0.01em;
+}
+
+.cls-25 {
+  letter-spacing: 0em;
+}
+
+.cls-26 {
+  letter-spacing: 0em;
+}
+
+.cls-27 {
+  letter-spacing: -0.03em;
+}
+
+.cls-28 {
+  letter-spacing: -0.02em;
+}
+
+.cls-29 {
+  letter-spacing: -0.02em;
+}
+
+.cls-30 {
+  letter-spacing: 0em;
+}
+
+.cls-31 {
+  letter-spacing: -0.02em;
+}
+
+.cls-32, .cls-35 {
+  fill: none;
+}
+.cls-circle01{
+  fill-opacity: 0;
+  fill:#00ffff;
+}
+.cls-circle01:hover{
+  fill:#00ffff;
+  fill-opacity: .1;
+}
+
+.cls-32 {
+  stroke: #00265b;
+  stroke-miterlimit: 10;
+  stroke-width: 5px;
+}
+
+.cls-33 {
+  fill: #56a3ad;
+}
+
+.cls-34 {
+  fill: #0df9e7;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:440px){
+ 
+  .background{
+    
+    position: absolute;
+    z-index: -1;
+    max-width: 480px;
+    height:auto;
+    margin-top: 1rem;
+    
+    
+    
+  }
+  .container_head{
+   
+    background-image: url("/svg_onda.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display:flex;
+    
+    width: 100%;
+    
+    
+   
+  }
+ 
+  .img_logo{
+    width: 40%;
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+    
+
+  }
+  .logotipo{
+    width: 100%;
+    
+    margin: 0%;
+  }
+  .menu{
+    display: none;
+  }
+  .btn_agenda{
+    display: none;;
+  }
+
+  
+
+  .titulo{
+    position: relative;
+    top: 15px;
+    margin: 0%;
+    padding: 2%;
+    width:100%;
+    
+    
+    
+  }
+  .titulo_principal{
+    font-Size:25px; 
+    color:#00265b; 
+    font-Family:BreeGRK-Regular, Bree GRK; 
+    
+  }
+  .titulo_sub{
+    display: none;
+    font-size: 5px;
+    font-Family:Poppins, sans-serif;
+  }
+
+
+
+  
+  
+  .valores{
+  
+     padding: 3%;
+     margin: 4rem 0% 0% 0%;
+     width: 100%;
+   position: relative;
+    
+    align-items: center;
+    display: flex;
+     
+     
+     
+  }
+
+  
+  .valores span{
+    color: #fff;
+    font-size: 25px;
+  }
+  .valores h1{
+    font-size: 12px;
+
+    font-family:Poppins, sans-serif;
+  }
+
+  .img_slid{
+    width: 80%; 
+    margin:.5rem;
+  }
+ 
+
+
+
+
+  .especialidades{
+    background-image: url('/bk_especialidades.jpg');
+    background-size: cover;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 1rem;
+    flex-direction: column;
+    
+
+  }
+  .txt_espec{
+    width:100%;
+    
+  }
+  .txt_espec h1{
+    font-size: 30px;
+    color: #fff;
+  }
+  .txt_espec span{
+    font-size: 14px;
+    font-family:Poppins, sans-serif;
+    color: #00ffff;
+    
+    
+  }
+
+  #Camada_1{
+    width: 100%;
+    
+    margin: 1rem;
+  
+  }
+
+
+
+  .containerEquipe{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    background-color:#fcfcfc ;
+    padding: 2rem;
+    
+  
+}
+.individual{
+  
+  border: #dadada 1px solid;
+  border-radius: 5%;
+  max-width: 90%;
+  padding: .5rem;
+ 
+
+}
+.txtEquipe{
+  
+  margin-bottom: 2rem;
+  
+}
+.txtEquipe h1{
+  
+  
+  
+  font-size: 50px;
+  
+}
+.txtEquipe h3{
+  
+  font-size: 14px;
+}
+.footer{
+  
+  text-align: center;
+  
+}
+
 }
