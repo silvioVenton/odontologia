@@ -17,7 +17,9 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Odontologia Barão de Jundiaí",
-  description: "Transformando Vidas através de sorrisos.",
+  description: "Transformando Vidas através de sorrisos."
+  
+
 };
 
 export default function RootLayout({
@@ -106,7 +108,7 @@ export default function RootLayout({
           <div className="card">
             <div className="identificaçãoProf">
                 <Image
-                src="/fotos/exemplo.png"
+                src="/fotos/draVanessa.png"
                 width={180}
                 height={150}
                 alt="imagem dentista"
@@ -131,7 +133,7 @@ export default function RootLayout({
           <div className="card">
             <div className="identificaçãoProf">
                 <Image
-                src="/fotos/exemplo.png"
+                src="/fotos/drLeandro.png"
                 width={180}
                 height={150}
                 alt="imagem dentista"
