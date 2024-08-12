@@ -6,7 +6,7 @@ export default function Cabecalho(){
       
       <div className="img_logo">
       <Image 
-        src="/Logo.png"
+        src="/logo.png"
         width={300}
         height={50}
         alt="logotipo"
