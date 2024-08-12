@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@expo-google-fonts/bree-serif": "^0.2.3",
     "bree": "^9.2.4",
     "firebase": "^10.12.5",
     "next": "14.2.5",
