@@ -29,16 +29,9 @@ export default function RootLayout({
     <html lang="pt-BR">
       
       <body className={inter.className}>
-        <Image
-          src="/img_background.png"
-          width={800}
-          height={400}
-          alt="planodeFundo"
-          className="background"
-          
-          
-
-        />
+        
+       
+        
        
 
         <Cabecalho />
