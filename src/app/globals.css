@@ -6,11 +6,25 @@
   font-family:BreeGRK-Regular, Bree GRK;
 }
 body{
-  background-image: url('/img_background.png');
-  background-repeat: no-repeat;
-  background-size: 130%;
+
   
   
+}
+.logoWhatsapp{
+  position: fixed;
+
+  z-index: 100;
+  right: 4rem;
+  bottom: 4rem;
+}
+.one{
+  
+  overflow: hidden;
+  background-image: url("/img_background.png");
+  background-position: center;
+  background-size: cover;
+  
+
 }
 
 
@@ -45,10 +59,20 @@ body{
 .logotipo{
   margin:1rem;
 }
+.logotipoMobile{
+  display: none;
+}
+.mmm{
+  display: none;
+}
+.menuBars{
+  display: none;
+}
+
 
 
 .titulo{
-  width:50%; 
+ 
   padding:5rem; 
   margin-Bottom:4rem;
 }
@@ -59,8 +83,33 @@ body{
   font-Weight:700;
 }
 .titulo_sub{
+ 
+  color: #fff;
   font-Family:Poppins, sans-serif;
 }
+
+.btn_cta{
+  position: relative;
+  margin: 2rem;
+ 
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  background-color: #0df9e7;
+  
+  padding:.5rem;
+}
+.btn_cta span{
+  font-Family:BreeGRK-Regular, Bree GRK; 
+  font-weight: bolder;
+  color: #00265b;
+  font-size: 14px;
+}
+
+
+
 
 .secondSection{
   background-image: url('/Ativo 5.svg');
@@ -94,7 +143,7 @@ body{
    
 }
 .valores span{
-  color: #011633;
+  color: #fff;
   font-family:BreeGRK-Regular, Bree GRK;
   font-weight: 700;
   font-size: 50px;
@@ -216,17 +265,27 @@ body{
   max-width: 20%;
   padding: .5rem;
   margin-top: 1rem;
+  align-items: center;
 
 }
 .card{
   
+  display: flex;
+  flex-direction: column;
+  text-align: center;
   width: 100%;
 }
 .identificaçãoProf{
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  
+  flex-direction: column;
+  justify-items: center;
   text-align: center;
+}
+.fotoCirculo{
+  text-align: center;
+  
+  margin: 0 auto;
 }
 .identificaçãoProf span{
   color: #011633;
@@ -365,7 +424,23 @@ body{
 
 
 
-.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+.cls-1 {
+  fill: #00265b;
+}
+
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+  isolation: isolate;
+}
+
+.cls-3, .cls-4 {
+  font-size: 19.23px;
+}
+
+.cls-18, .cls-19, .cls-20, .cls-21, .cls-27, .cls-28, .cls-3, .cls-4, .cls-6, .cls-7, .cls-8 {
+  fill: #fff;
+}
+
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-34, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
   font-family: BreeGRK-Regular, Bree GRK;
 }
 
@@ -373,35 +448,31 @@ body{
   letter-spacing: -0.02em;
 }
 
-.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-31, .cls-5 {
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-29, .cls-5, .cls-9 {
   fill: #67c0bf;
 }
 
-.cls-6 {
-  font-size: 39.27px;
-}
-
-.cls-18, .cls-6 {
-  fill: #fbb03b;
-}
-
-.cls-20, .cls-21, .cls-22, .cls-23, .cls-29, .cls-30, .cls-7, .cls-8, .cls-9 {
+.cls-18, .cls-19, .cls-20, .cls-21, .cls-27, .cls-28, .cls-6, .cls-7, .cls-8 {
   font-size: 19.79px;
+}
+
+.cls-7 {
+  letter-spacing: -0.01em;
 }
 
 .cls-8 {
   letter-spacing: -0.01em;
 }
 
+.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-29, .cls-9 {
+  font-size: 12px;
+}
+
 .cls-9 {
   letter-spacing: -0.01em;
 }
 
-.cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-31 {
-  font-size: 12px;
-}
-
-.cls-10 {
+.cls-11 {
   letter-spacing: -0.01em;
 }
 
@@ -410,7 +481,7 @@ body{
 }
 
 .cls-13 {
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
 }
 
 .cls-14 {
@@ -418,7 +489,7 @@ body{
 }
 
 .cls-15 {
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 .cls-16 {
@@ -426,15 +497,15 @@ body{
 }
 
 .cls-17 {
-  letter-spacing: -0.01em;
+  letter-spacing: -0.07em;
 }
 
 .cls-18 {
-  font-size: 40.41px;
+  letter-spacing: -0.02em;
 }
 
 .cls-19 {
-  letter-spacing: -0.07em;
+  letter-spacing: -0.01em;
 }
 
 .cls-20 {
@@ -442,76 +513,67 @@ body{
 }
 
 .cls-21 {
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
 }
 
 .cls-22 {
-  letter-spacing: -0.02em;
-}
-
-.cls-23 {
-  letter-spacing: -0.02em;
-}
-
-.cls-24 {
   letter-spacing: -0.01em;
 }
 
+.cls-23 {
+  letter-spacing: 0em;
+}
+
+.cls-24 {
+  letter-spacing: 0em;
+}
+
 .cls-25 {
-  letter-spacing: 0em;
-}
-
-.cls-26 {
-  letter-spacing: 0em;
-}
-
-.cls-27 {
   letter-spacing: -0.03em;
 }
 
-.cls-28 {
+.cls-26 {
   letter-spacing: -0.02em;
+}
+
+.cls-27 {
+  letter-spacing: -0.02em;
+}
+
+.cls-28 {
+  letter-spacing: 0em;
 }
 
 .cls-29 {
   letter-spacing: -0.02em;
 }
 
-.cls-30 {
-  letter-spacing: 0em;
-}
-
-.cls-31 {
-  letter-spacing: -0.02em;
-}
-
-.cls-32, .cls-35 {
+.cls-30, .cls-33 {
   fill: none;
 }
-.cls-circle01{
-  fill-opacity: 0;
-  fill:#00ffff;
-}
-.cls-circle01:hover{
-  fill:#00ffff;
-  fill-opacity: .1;
-}
 
-.cls-32 {
+.cls-30 {
   stroke: #00265b;
   stroke-miterlimit: 10;
   stroke-width: 5px;
 }
 
-.cls-33 {
+.cls-31 {
   fill: #56a3ad;
 }
 
-.cls-34 {
+.cls-32 {
   fill: #0df9e7;
 }
 
+.cls-34 {
+  font-size: 16.66px;
+  fill: #fbb03b;
+}
 
+.cls-35 {
+  letter-spacing: 0em;
+}
 
 
 
@@ -522,22 +584,34 @@ body{
 
 
 @media (max-width:440px){
+  .logoWhatsapp{
+    position: fixed;
+  
+    z-index: 100;
+    right: 1rem;
+    bottom: 2rem;
+    width: 60px;
+    height: 60px;
+  }
 
-  body{
-    background-image: url('/img_background.png');
-    background-repeat: no-repeat;
-    background-size: 130%;
-    position: relative;
+  .one{
+    height: 600px;
+    overflow: hidden;
+    background-image: url("/img_backgroundMobile.png");
+    background-attachment:local;
+    background-position:center;
     
-    
-    
+  
   }
  
 
   .container_head{
+    
+    display: flex;
     background-image: none;
-    justify-content: flex-start;
+    justify-content: space-between;
     padding-left: 2rem;
+    align-items: center;
    
    
     
@@ -554,7 +628,12 @@ body{
   }
   .logotipo{
     width: 100%;
-    
+    display: none;
+    margin: 0%;
+  }
+  .logotipoMobile{
+    width: 90%;
+    display: flex;
     margin: 0%;
   }
   .menu{
@@ -562,6 +641,39 @@ body{
   }
   .btn_agenda{
     display: none;;
+  }
+
+  .menuBars{
+    display: flex;
+    margin-right: 1rem;
+  }
+  .mmm{
+    
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 80%;
+  height: 100%;
+  background-color:rgba(60, 60, 60, 0.9) ;
+  color: white;
+  transition: right 0.3s ease-in-out;
+  z-index: 1000;
+  }
+  .mmm-open{
+    display: flex;
+    justify-content: flex-start;
+    right: 0;
+  }
+
+  .mmm ul{
+    text-align: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+  }
+
+  .mmm ul li{
+    font-size: 30px;
+    
   }
 
   
@@ -577,18 +689,33 @@ body{
     
   }
   .titulo_principal{
-    font-Size:25px; 
+    font-Size:35px; 
     color:#00265b; 
     font-Family:BreeGRK-Regular, Bree GRK; 
     
   }
   .titulo_sub{
-    display: none;
-    font-size: 5px;
+    color: #fff;
+    font-size: 12px;
     font-Family:Poppins, sans-serif;
   }
 
-
+.btn_cta{
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  background-color: #0df9e7;
+  margin: 1rem;
+  padding:.2rem .3rem .2rem .3rem;
+}
+.btn_cta span{
+  font-Family:BreeGRK-Regular, Bree GRK; 
+  font-weight: bolder;
+  color: #00265b;
+  font-size: 14px;
+}
 
   
   
@@ -629,6 +756,7 @@ body{
   .especialidades{
     background-image: url('/bk_especialidades.jpg');
     background-size: cover;
+    background-position: center;
     display: flex;
     text-align: center;
     align-items: center;
@@ -642,11 +770,11 @@ body{
     
   }
   .txt_espec h1{
-    font-size: 30px;
+    font-size: 35px;
     color: #fff;
   }
   .txt_espec span{
-    font-size: 14px;
+    font-size: 12px;
     font-family:Poppins, sans-serif;
     color: #00ffff;
     
@@ -686,10 +814,10 @@ body{
   
 }
 .txtEquipe h1{
+  font-size: 35px;
   
   
-  
-  font-size: 50px;
+ 
   
 }
 .txtEquipe h3{

@@ -31,9 +31,18 @@ export default function RootLayout({
     <html lang="pt-BR">
       
       <body className={inter.className}>
+      <a href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
+        <Image
+        src="/whatsappLogo.png"
+        width={80}
+        height={80}
+        alt="logoWhatsapp"
+        className="logoWhatsapp"
+        />
+        </a>
         
        
-        
+      <section className="one">  
        
 
         <Cabecalho />
@@ -44,42 +53,37 @@ export default function RootLayout({
       <section className="firstSection">
           <div className="titulo">
             <span className="titulo_principal">
-              Transformando <br /> vidas através <br /> de < span style={{color:"red"}}>sorrisos</span>.
+              Transformando <br /> vidas através <br /> de < span style={{color:"#fff"}}>sorrisos</span>.
             </span>
             <div>
-            <span className="titulo_sub">Tratamentos Odontológicos de Alta Qualidade para Toda a Família</span>
+            <span className="titulo_sub">Tratamentos odontológicos de alta qualidade para toda a família</span>
             </div>
+
+
+            <a href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
+            <div className="btn_cta">
+              <span>Agende sua consulta </span>
+            </div>
+          </a>
+
             
 
           </div>
+          
+          
+            
 
+      </section>
       </section>
      
-      <section className="secondSection">
-         
-        
-          <div className="valores">
-            
-               
-              <span>Mais de 20 anos dedicados ao seu bem estar</span>
-              <h1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequ
-                </h1>
-        </div>
+     
 
-      </section>
-
-      <section className="imgClinica">
-        <div className="slide">
-          <Galeria
-          />
-        </div>
-          
-      </section>
+    
 
 
 
 
-      <section className="especialidades">
+      <section className="especialidades" id="especialidades">
         
        
 
@@ -95,7 +99,7 @@ export default function RootLayout({
         
 
       </section>
-      <section className="containerEquipe">
+      <section className="containerEquipe" id="equipe">
       
         <div className="txtEquipe">
           <h1>Nossa especialidade é estar< br/>sempre se especializando.</h1>
@@ -132,6 +136,7 @@ export default function RootLayout({
         <div className="individual">
           <div className="card">
             <div className="identificaçãoProf">
+              
                 <Image
                 src="/fotos/drLeandro.png"
                 width={180}
@@ -140,6 +145,7 @@ export default function RootLayout({
                 className="fotoCirculo"
                 
                 />
+                
                 <span className="nomeDentista">
                 Dr Leandro Campos
                 </span>
@@ -157,6 +163,7 @@ export default function RootLayout({
         <div className="individual">
           <div className="card">
             <div className="identificaçãoProf">
+              
                 <Image
                 src="/fotos/draMarilia_Circle.png"
                 width={180}
@@ -165,6 +172,7 @@ export default function RootLayout({
                 className="fotoCirculo"
                 
                 />
+                
                 <span className="nomeDentista">
                 Dra Marilia Cogo
                 </span>
@@ -209,7 +217,29 @@ export default function RootLayout({
         </div>
       </section>
 
-      <section className="agendamento">
+      <section className="imgClinica">
+        <div className="slide">
+          <Galeria
+          />
+        </div>
+          
+      </section>
+      <section className="secondSection" id="clinica">
+         
+        
+         <div className="valores">
+           
+              
+             <span>Mais de 20 anos dedicados ao bem estar</span>
+             <h1>Com mais de 20 anos de experiência na área odontológica, a Clínica Odontológica Barão de Jundiaí iniciou suas atividades no final de 2003, com a Dra Salma Tavares formando uma equipe capacitada e humanizada, que se dedica com carinho e amor ao trabalho que realiza.
+Ao longo de todos esses anos, o crescimento foi gradual, em conjunto ao desenvolvimento técnico dos doutores na capacitação de cursos e especializações.
+Temos como missão a transformação do seu sorriso .
+               </h1>
+       </div>
+
+     </section>
+
+      <section className="agendamento" id="agendamento">
         <Form
         />
         
@@ -218,7 +248,7 @@ export default function RootLayout({
       <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14670.167882090793!2d-46.8852391!3d-23.1869114!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf274f21d94f43%3A0x1b3e87d5775f8243!2sClinica%20Odontol%C3%B3gica%20Bar%C3%A3o%20de%20Jundia%C3%AD!5e0!3m2!1sen!2sbr!4v1722887506393!5m2!1sen!2sbr" width="100%" height="450"></iframe>
       </section>
       
-      <footer className="footer">
+      <footer className="footer" id="contatos">
         <div className="clinica_footer">
           <Image
           src="/ativoUm.png"

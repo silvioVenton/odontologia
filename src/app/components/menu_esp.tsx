@@ -1,21 +1,16 @@
 export default function Menu(){
     return(
       
-        <svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600.43 534.3">
+      <svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600.43 534.3">
   <defs>
     
-      
   </defs>
-  
   <path className="cls-1" d="M500.75,242c-37.22,0-68.31,25.28-75.94,59l-70.12-17.74a48.28,48.28,0,0,0,.39-5.89,46.43,46.43,0,0,0-7.45-25.22L458.93,165a78.43,78.43,0,0,0,63.82,32.24c42.94,0,77.75-33.65,77.75-75.15S565.69,47,522.75,47,445,80.6,445,122.1A73,73,0,0,0,455.61,160L344.06,247.36a49.24,49.24,0,0,0-31-17.06V183.22c.89,0,1.79.07,2.69.07,42.94,0,77.75-33.65,77.75-75.15S358.69,33,315.75,33,238,66.64,238,108.14c0,38.76,30.36,70.65,69.34,74.7l-.27,47h-1a49.62,49.62,0,0,0-31,10.77L175.65,132a73.91,73.91,0,0,0,26.92-56.83C202.57,33.68,167.76,0,124.82,0S47.07,33.68,47.07,75.18s34.81,75.15,77.75,75.15A79.17,79.17,0,0,0,170.9,135.7l99.72,108.93a46.75,46.75,0,0,0-13.36,28.92L155,258.82a71.31,71.31,0,0,0,.53-8.64c0-41.5-34.81-75.14-77.75-75.14S.07,208.68.07,250.18s34.81,75.15,77.75,75.15c37.8,0,69.28-26.08,76.28-60.63l102.6,14.78.4-1.44a46.61,46.61,0,0,0,11.81,30.4l-93.42,75.4A79.15,79.15,0,0,0,127.82,368c-42.94,0-77.75,33.64-77.75,75.14s34.81,75.15,77.75,75.15,77.75-33.65,77.75-75.15a73.82,73.82,0,0,0-25.32-55.48l92.81-75a49.7,49.7,0,0,0,33,12.36A50.25,50.25,0,0,0,316.58,324l16.18,61.49C297,392.22,270,422.65,270,459.19c0,41.5,34.81,75.15,77.75,75.15s77.75-33.65,77.75-75.15-34.81-75.14-77.75-75.14a82,82,0,0,0-9,.52l-16.36-62.2a48.28,48.28,0,0,0,31.21-33.12L423.79,307a74,74,0,0,0-.73,10.19c0,41.5,34.81,75.15,77.75,75.15s77.75-33.65,77.75-75.15S543.69,242,500.75,242ZM306.06,319.41a42,42,0,1,1,42-42,42,42,0,0,1-42,42Z" transform="translate(-0.07 -0.04)"/>
-  <a href="https://www.google.com.br" target="_blank">
   <g className="cls-2">
-    
     <text className="cls-3" transform="translate(78.39 50.69) scale(1.01 1)">Or</text>
     <text className="cls-4" transform="translate(98.49 50.69) scale(1.01 1)">t</text>
     <text className="cls-3" transform="translate(105.01 50.69) scale(1.01 1)">odontia</text>
   </g>
-  </a>
   <path className="cls-5" d="M76.17,72a3.45,3.45,0,0,1-2.58-1,4.12,4.12,0,0,1-1-3,5,5,0,0,1,.32-1.91,3.54,3.54,0,0,1,.84-1.25,3.09,3.09,0,0,1,1.16-.68A4,4,0,0,1,76.19,64a3.67,3.67,0,0,1,1.5.32A2.88,2.88,0,0,1,79,65.42l-1,.73a2.71,2.71,0,0,0-.8-.71,1.93,1.93,0,0,0-1-.25,1.77,1.77,0,0,0-1.48.72,3.18,3.18,0,0,0-.57,2A3.81,3.81,0,0,0,74.62,70a1.82,1.82,0,0,0,1.62.78,2.3,2.3,0,0,0,1-.21,3.92,3.92,0,0,0,.9-.6l.76.93A4.29,4.29,0,0,1,76.17,72Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M82,72.07a2.39,2.39,0,0,1-1.9-.77,3.34,3.34,0,0,1-.7-2.34,3.7,3.7,0,0,1,.26-1.51,2.6,2.6,0,0,1,.67-1,2.44,2.44,0,0,1,.91-.49,3.37,3.37,0,0,1,1-.15,5.16,5.16,0,0,1,.78.08,2,2,0,0,1,.86.39,2.41,2.41,0,0,1,.69.89,3.72,3.72,0,0,1,.28,1.58,4.53,4.53,0,0,1-.21,1.46,2.84,2.84,0,0,1-.6,1,2.59,2.59,0,0,1-.89.6A3,3,0,0,1,82,72.07Zm.1-1a1,1,0,0,0,1-.57,3.15,3.15,0,0,0,.3-1.48,3.73,3.73,0,0,0-.27-1.55,1.14,1.14,0,0,0-1.95,0,2.77,2.77,0,0,0-.31,1.38v.81a2.24,2.24,0,0,0,.18.72,1.3,1.3,0,0,0,.38.52,1,1,0,0,0,.66.18Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M86,67,85.89,66h1.17l.15.84a1.59,1.59,0,0,1,.6-.75,1.52,1.52,0,0,1,.85-.26,2.33,2.33,0,0,1,.53.06,1.31,1.31,0,0,1,.43.16l-.25,1.16a2.74,2.74,0,0,0-.4-.15,1.74,1.74,0,0,0-.45-.06,1,1,0,0,0-.78.33,1.29,1.29,0,0,0-.32.84v3.7H86Z" transform="translate(-0.07 -0.04)"/>
@@ -70,86 +65,78 @@ export default function Menu(){
   <path className="cls-5" d="M167,100.06a2.63,2.63,0,0,1-1-.17,1.32,1.32,0,0,1-.56-.43,1.43,1.43,0,0,1-.24-.63,4.52,4.52,0,0,1-.06-.74V91.78h1.43V94h1.62v1.07h-1.63v3a1,1,0,0,0,.22.74.87.87,0,0,0,.6.2,1.12,1.12,0,0,0,.44-.09,2.11,2.11,0,0,0,.34-.16l.36.9a2.43,2.43,0,0,1-.68.3A3.42,3.42,0,0,1,167,100.06Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M171.47,100.06a2.46,2.46,0,0,1-1.9-.77,3.38,3.38,0,0,1-.7-2.35,3.88,3.88,0,0,1,.26-1.51,2.84,2.84,0,0,1,.67-1,2.68,2.68,0,0,1,.91-.49,3.37,3.37,0,0,1,1-.15,5.29,5.29,0,0,1,.79.08,2.1,2.1,0,0,1,.86.39,2.41,2.41,0,0,1,.69.89,3.72,3.72,0,0,1,.28,1.58,4.53,4.53,0,0,1-.21,1.46,3,3,0,0,1-.6,1,2.34,2.34,0,0,1-.89.6A3.33,3.33,0,0,1,171.47,100.06Zm.1-1a1,1,0,0,0,1-.57,3.15,3.15,0,0,0,.3-1.48,3.73,3.73,0,0,0-.27-1.55,1.14,1.14,0,0,0-1.95,0,2.71,2.71,0,0,0-.31,1.37v.81a2.24,2.24,0,0,0,.18.72,1.3,1.3,0,0,0,.38.52.93.93,0,0,0,.67.17Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M176.06,100.06a.86.86,0,0,1-.63-.22.81.81,0,0,1-.23-.59.75.75,0,0,1,.23-.55.78.78,0,0,1,.59-.23.91.91,0,0,1,.63.21.74.74,0,0,1,.22.56.83.83,0,0,1-.21.58A.74.74,0,0,1,176.06,100.06Z" transform="translate(-0.07 -0.04)"/>
-  <text className="cls-6" transform="translate(115.92 131.43) scale(0.57 1)">&gt;&gt;</text>
-  <a href="https://www.facebook.com" target="_blank">
   <g className="cls-2">
-    
-    <text className="cls-7" transform="translate(252.38 86.13) scale(0.98 1)">Imp</text>
-    <text className="cls-8" transform="translate(283.68 86.13) scale(0.98 1)">l</text>
-    <text className="cls-7" transform="translate(289.8 86.13) scale(0.98 1)">an</text>
-    <text className="cls-9" transform="translate(310.7 86.13) scale(0.98 1)">t</text>
-    <text className="cls-7" transform="translate(317.22 86.13) scale(0.98 1)">odontia</text>
-    
-  </g>
-  </a>
-  <g className="cls-2">
-    <text className="cls-10" transform="translate(260.62 110.8)">S</text>
-    <text className="cls-11" transform="translate(266.96 110.8)">ubsti</text>
-    <text className="cls-12" transform="translate(292.06 110.8)">t</text>
-    <text className="cls-11" transform="translate(296.15 110.8)">ui</text>
-    <text className="cls-13" transform="translate(305.56 110.8)">ç</text>
-    <text className="cls-11" transform="translate(310.98 110.8)">ão de den</text>
-    <text className="cls-14" transform="translate(359.56 110.8)">t</text>
-    <text className="cls-11" transform="translate(363.59 110.8)">es </text>
-    <text className="cls-11" transform="translate(258.06 125.2)">pe</text>
-    <text className="cls-15" transform="translate(270.15 125.2)">r</text>
-    <text className="cls-11" transform="translate(274.32 125.2)">didos por imp</text>
-    <text className="cls-16" transform="translate(342.77 125.2)">l</text>
-    <text className="cls-11" transform="translate(346.55 125.2)">an</text>
-    <text className="cls-17" transform="translate(359.49 125.2)">t</text>
-    <text className="cls-11" transform="translate(363.52 125.2)">es.</text>
-  </g>
-  <text className="cls-18" transform="translate(304.89 161.1) scale(0.56 1)">&gt;&gt;</text>
-  <text className="cls-7" transform="translate(474.38 98.13) scale(0.98 1)">Endodontia</text>
-  <g className="cls-2">
-    <text className="cls-19" transform="translate(467.95 117.8)">T</text>
-    <text className="cls-15" transform="translate(473.59 117.8)">r</text>
-    <text className="cls-11" transform="translate(477.77 117.8)">a</text>
-    <text className="cls-14" transform="translate(484.23 117.8)">t</text>
-    <text className="cls-11" transform="translate(488.27 117.8)">amen</text>
-    <text className="cls-17" transform="translate(516.64 117.8)">t</text>
-    <text className="cls-11" transform="translate(520.68 117.8)">o de </text>
-    <text className="cls-13" transform="translate(544.12 117.8)">c</text>
-    <text className="cls-11" transform="translate(549.55 117.8)">anal e </text>
-    <text className="cls-11" transform="translate(479.73 132.2)">saúde in</text>
-    <text className="cls-14" transform="translate(521.77 132.2)">t</text>
-    <text className="cls-11" transform="translate(525.8 132.2)">erna dos </text>
-    <text className="cls-11" transform="translate(506.45 146.6)">den</text>
-    <text className="cls-14" transform="translate(525.11 146.6)">t</text>
-    <text className="cls-11" transform="translate(529.14 146.6)">es.</text>
-  </g>
-  <text className="cls-18" transform="translate(514.89 183.1) scale(0.56 1)">&gt;&gt;</text>
-  <g className="cls-2">
-    <text className="cls-7" transform="translate(442.01 289.13) scale(0.98 1)">Harmoni</text>
-    <text className="cls-20" transform="translate(513.73 289.13) scale(0.98 1)">z</text>
-    <text className="cls-7" transform="translate(521.37 289.13) scale(0.98 1)">a</text>
-    <text className="cls-21" transform="translate(531.83 289.13) scale(0.98 1)">ç</text>
-    <text className="cls-7" transform="translate(540.59 289.13) scale(0.98 1)">ão</text>
-    <text className="cls-7" transform="translate(463.07 312.88) scale(0.98 1)">O</text>
-    <text className="cls-22" transform="translate(475.95 312.88) scale(0.98 1)">r</text>
-    <text className="cls-7" transform="translate(482.7 312.88) scale(0.98 1)">a</text>
-    <text className="cls-23" transform="translate(493.16 312.88) scale(0.98 1)">f</text>
-    <text className="cls-7" transform="translate(499.32 312.88) scale(0.98 1)">acial</text>
+    <text className="cls-6" transform="translate(252.38 86.13) scale(0.98 1)">Imp</text>
+    <text className="cls-7" transform="translate(283.68 86.13) scale(0.98 1)">l</text>
+    <text className="cls-6" transform="translate(289.8 86.13) scale(0.98 1)">an</text>
+    <text className="cls-8" transform="translate(310.7 86.13) scale(0.98 1)">t</text>
+    <text className="cls-6" transform="translate(317.22 86.13) scale(0.98 1)">odontia</text>
   </g>
   <g className="cls-2">
-    <text className="cls-11" transform="translate(463.68 329.8)">Es</text>
-    <text className="cls-14" transform="translate(474.82 329.8)">t</text>
-    <text className="cls-11" transform="translate(478.85 329.8)">éti</text>
-    <text className="cls-13" transform="translate(491.63 329.8)">c</text>
-    <text className="cls-11" transform="translate(497.05 329.8)">a </text>
-    <text className="cls-24" transform="translate(505.99 329.8)">f</text>
-    <text className="cls-11" transform="translate(509.81 329.8)">acial e </text>
-    <text className="cls-11" transform="translate(451.87 344.2)">equilíbrio do </text>
-    <text className="cls-25" transform="translate(518.02 344.2)">s</text>
-    <text className="cls-11" transform="translate(523.01 344.2)">orri</text>
-    <text className="cls-26" transform="translate(541.12 344.2)">s</text>
-    <text className="cls-11" transform="translate(546.11 344.2)">o.</text>
+    <text className="cls-9" transform="translate(260.62 110.8)">S</text>
+    <text className="cls-10" transform="translate(266.96 110.8)">ubsti</text>
+    <text className="cls-11" transform="translate(292.06 110.8)">t</text>
+    <text className="cls-10" transform="translate(296.15 110.8)">ui</text>
+    <text className="cls-12" transform="translate(305.56 110.8)">ç</text>
+    <text className="cls-10" transform="translate(310.98 110.8)">ão de den</text>
+    <text className="cls-13" transform="translate(359.56 110.8)">t</text>
+    <text className="cls-10" transform="translate(363.59 110.8)">es </text>
+    <text className="cls-10" transform="translate(258.06 125.2)">pe</text>
+    <text className="cls-14" transform="translate(270.15 125.2)">r</text>
+    <text className="cls-10" transform="translate(274.32 125.2)">didos por imp</text>
+    <text className="cls-15" transform="translate(342.77 125.2)">l</text>
+    <text className="cls-10" transform="translate(346.55 125.2)">an</text>
+    <text className="cls-16" transform="translate(359.49 125.2)">t</text>
+    <text className="cls-10" transform="translate(363.52 125.2)">es.</text>
   </g>
-  <text className="cls-18" transform="translate(487.89 377.1) scale(0.56 1)">&gt;&gt;</text>
+  <text className="cls-6" transform="translate(474.38 98.13) scale(0.98 1)">Endodontia</text>
   <g className="cls-2">
-    <text className="cls-7" transform="translate(282.38 441.13) scale(0.98 1)">Odon</text>
-    <text className="cls-23" transform="translate(326.44 441.13) scale(0.98 1)">t</text>
-    <text className="cls-7" transform="translate(332.96 441.13) scale(0.98 1)">opediatria</text>
+    <text className="cls-17" transform="translate(467.95 117.8)">T</text>
+    <text className="cls-14" transform="translate(473.59 117.8)">r</text>
+    <text className="cls-10" transform="translate(477.77 117.8)">a</text>
+    <text className="cls-13" transform="translate(484.23 117.8)">t</text>
+    <text className="cls-10" transform="translate(488.27 117.8)">amen</text>
+    <text className="cls-16" transform="translate(516.64 117.8)">t</text>
+    <text className="cls-10" transform="translate(520.68 117.8)">o de </text>
+    <text className="cls-12" transform="translate(544.12 117.8)">c</text>
+    <text className="cls-10" transform="translate(549.55 117.8)">anal e </text>
+    <text className="cls-10" transform="translate(479.73 132.2)">saúde in</text>
+    <text className="cls-13" transform="translate(521.77 132.2)">t</text>
+    <text className="cls-10" transform="translate(525.8 132.2)">erna dos </text>
+    <text className="cls-10" transform="translate(506.45 146.6)">den</text>
+    <text className="cls-13" transform="translate(525.11 146.6)">t</text>
+    <text className="cls-10" transform="translate(529.14 146.6)">es.</text>
+  </g>
+  <g className="cls-2">
+    <text className="cls-6" transform="translate(442.01 289.13) scale(0.98 1)">Harmoni</text>
+    <text className="cls-18" transform="translate(513.73 289.13) scale(0.98 1)">z</text>
+    <text className="cls-6" transform="translate(521.37 289.13) scale(0.98 1)">a</text>
+    <text className="cls-19" transform="translate(531.83 289.13) scale(0.98 1)">ç</text>
+    <text className="cls-6" transform="translate(540.59 289.13) scale(0.98 1)">ão</text>
+    <text className="cls-6" transform="translate(463.07 312.88) scale(0.98 1)">O</text>
+    <text className="cls-20" transform="translate(475.95 312.88) scale(0.98 1)">r</text>
+    <text className="cls-6" transform="translate(482.7 312.88) scale(0.98 1)">a</text>
+    <text className="cls-21" transform="translate(493.16 312.88) scale(0.98 1)">f</text>
+    <text className="cls-6" transform="translate(499.32 312.88) scale(0.98 1)">acial</text>
+  </g>
+  <g className="cls-2">
+    <text className="cls-10" transform="translate(463.68 329.8)">Es</text>
+    <text className="cls-13" transform="translate(474.82 329.8)">t</text>
+    <text className="cls-10" transform="translate(478.85 329.8)">éti</text>
+    <text className="cls-12" transform="translate(491.63 329.8)">c</text>
+    <text className="cls-10" transform="translate(497.05 329.8)">a </text>
+    <text className="cls-22" transform="translate(505.99 329.8)">f</text>
+    <text className="cls-10" transform="translate(509.81 329.8)">acial e </text>
+    <text className="cls-10" transform="translate(451.87 344.2)">equilíbrio do </text>
+    <text className="cls-23" transform="translate(518.02 344.2)">s</text>
+    <text className="cls-10" transform="translate(523.01 344.2)">orri</text>
+    <text className="cls-24" transform="translate(541.12 344.2)">s</text>
+    <text className="cls-10" transform="translate(546.11 344.2)">o.</text>
+  </g>
+  <g className="cls-2">
+    <text className="cls-6" transform="translate(282.38 441.13) scale(0.98 1)">Odon</text>
+    <text className="cls-21" transform="translate(326.44 441.13) scale(0.98 1)">t</text>
+    <text className="cls-6" transform="translate(332.96 441.13) scale(0.98 1)">opediatria</text>
   </g>
   <path className="cls-5" d="M301.27,459a3.35,3.35,0,0,1-2.59-1,4.31,4.31,0,0,1-1-3.06,5.26,5.26,0,0,1,.33-2,3.62,3.62,0,0,1,.83-1.29,3,3,0,0,1,1.16-.7,4.25,4.25,0,0,1,1.28-.22,3.68,3.68,0,0,1,1.5.33,2.92,2.92,0,0,1,1.26,1.15l-1,.76a3.14,3.14,0,0,0-.8-.74,1.85,1.85,0,0,0-1-.26,1.78,1.78,0,0,0-1.49.74,3.41,3.41,0,0,0-.57,2.1,4,4,0,0,0,.52,2.18,1.81,1.81,0,0,0,1.62.8,2.15,2.15,0,0,0,1-.22,3.76,3.76,0,0,0,.91-.62l.76,1a4,4,0,0,1-1.26.82A3.82,3.82,0,0,1,301.27,459Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M306.69,459a2,2,0,0,1-1.49-.54,2.16,2.16,0,0,1-.5-1.58V452.8h1.42v3.83a2,2,0,0,0,.18.91c.11.24.37.36.77.36a1.23,1.23,0,0,0,1.18-1.15v-4h1.43v5l.09,1h-1.22l-.1-.71h0a2,2,0,0,1-.77.66A2.3,2.3,0,0,1,306.69,459Z" transform="translate(-0.07 -0.04)"/>
@@ -200,85 +187,88 @@ export default function Menu(){
   <path className="cls-5" d="M362.91,487.82a2.41,2.41,0,0,1-1.12-.24,1.87,1.87,0,0,1-.72-.65,2.44,2.44,0,0,1-.38-.93,5.26,5.26,0,0,1-.12-1.12,3.87,3.87,0,0,1,.79-2.52,2.84,2.84,0,0,1,2.32-.94,6.86,6.86,0,0,1,.9.09,6.67,6.67,0,0,1,1.24.33v4.64l.12,1.16H364.7l-.08-.64h0a1.9,1.9,0,0,1-1.71.82Zm.32-1.06a1.2,1.2,0,0,0,.88-.32,1,1,0,0,0,.3-.71v-3.11a1.66,1.66,0,0,0-.38-.11,2.33,2.33,0,0,0-.53-.06,1.26,1.26,0,0,0-.71.19,1.47,1.47,0,0,0-.48.51,2.52,2.52,0,0,0-.25.76,4.7,4.7,0,0,0-.08.92,4.33,4.33,0,0,0,0,.72,1.88,1.88,0,0,0,.2.62,1.21,1.21,0,0,0,.38.43,1.11,1.11,0,0,0,.67.12Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M369.06,487.82a3.73,3.73,0,0,1-1.36-.22,2.74,2.74,0,0,1-.82-.41l.4-1a5.62,5.62,0,0,0,.78.38,2.66,2.66,0,0,0,1,.2,1,1,0,0,0,.63-.19A.69.69,0,0,0,370,486a.62.62,0,0,0-.29-.58,3.83,3.83,0,0,0-.73-.29l-.65-.22a2.28,2.28,0,0,1-.6-.31,1.38,1.38,0,0,1-.43-.5,1.57,1.57,0,0,1-.17-.76,1.83,1.83,0,0,1,.18-.83,1.75,1.75,0,0,1,.48-.6,2.33,2.33,0,0,1,.7-.36,2.92,2.92,0,0,1,.83-.12,3.07,3.07,0,0,1,1.23.24,2.93,2.93,0,0,1,.94.61l-.68.83a3.59,3.59,0,0,0-.71-.46,1.75,1.75,0,0,0-.75-.17,1,1,0,0,0-.59.17.62.62,0,0,0-.26.56.61.61,0,0,0,.31.56,4.18,4.18,0,0,0,.76.31c.22.07.43.15.65.24a2.66,2.66,0,0,1,.6.32,1.71,1.71,0,0,1,.43.5,1.54,1.54,0,0,1,.17.76,1.72,1.72,0,0,1-.63,1.43A2.6,2.6,0,0,1,369.06,487.82Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-5" d="M372.93,487.82a.78.78,0,0,1-.85-.7V487a.87.87,0,0,1,.22-.57.79.79,0,0,1,.6-.24.9.9,0,0,1,.63.22.77.77,0,0,1,.22.58.88.88,0,0,1-.21.6A.75.75,0,0,1,372.93,487.82Z" transform="translate(-0.07 -0.04)"/>
-  <text className="cls-18" transform="translate(338.89 520.1) scale(0.56 1)">&gt;&gt;</text>
   <g className="cls-2">
-    <text className="cls-7" transform="translate(78.38 418.13) scale(0.98 1)">Clíni</text>
-    <text className="cls-21" transform="translate(115.94 418.13) scale(0.98 1)">c</text>
-    <text className="cls-7" transform="translate(124.71 418.13) scale(0.98 1)">a Ge</text>
-    <text className="cls-22" transform="translate(160.47 418.13) scale(0.98 1)">r</text>
-    <text className="cls-7" transform="translate(167.23 418.13) scale(0.98 1)">al</text>
+    <text className="cls-6" transform="translate(78.38 418.13) scale(0.98 1)">Clíni</text>
+    <text className="cls-19" transform="translate(115.94 418.13) scale(0.98 1)">c</text>
+    <text className="cls-6" transform="translate(124.71 418.13) scale(0.98 1)">a Ge</text>
+    <text className="cls-20" transform="translate(160.47 418.13) scale(0.98 1)">r</text>
+    <text className="cls-6" transform="translate(167.23 418.13) scale(0.98 1)">al</text>
   </g>
   <g className="cls-2">
-    <text className="cls-27" transform="translate(86.28 437.8)">C</text>
-    <text className="cls-11" transform="translate(93.06 437.8)">uidados ge</text>
-    <text className="cls-15" transform="translate(147.92 437.8)">r</text>
-    <text className="cls-11" transform="translate(152.1 437.8)">ais e </text>
-    <text className="cls-11" transform="translate(79.96 452.2)">p</text>
-    <text className="cls-28" transform="translate(86.36 452.2)">r</text>
-    <text className="cls-11" transform="translate(90.58 452.2)">even</text>
-    <text className="cls-13" transform="translate(114.62 452.2)">ç</text>
-    <text className="cls-11" transform="translate(120.05 452.2)">ão da saúde </text>
-    <text className="cls-11" transform="translate(114.77 466.6)">bu</text>
-    <text className="cls-13" transform="translate(127.75 466.6)">c</text>
-    <text className="cls-11" transform="translate(133.17 466.6)">al.</text>
-  </g>
-  <text className="cls-18" transform="translate(117.89 499.1) scale(0.56 1)">&gt;&gt;</text>
-  <g className="cls-2">
-    <text className="cls-9" transform="translate(46.38 224.13) scale(0.98 1)">P</text>
-    <text className="cls-29" transform="translate(57.1 224.13) scale(0.98 1)">r</text>
-    <text className="cls-7" transform="translate(63.91 224.13) scale(0.98 1)">ó</text>
-    <text className="cls-9" transform="translate(74.11 224.13) scale(0.98 1)">t</text>
-    <text className="cls-7" transform="translate(80.63 224.13) scale(0.98 1)">e</text>
-    <text className="cls-30" transform="translate(89.8 224.13) scale(0.98 1)">s</text>
-    <text className="cls-7" transform="translate(97.87 224.13) scale(0.98 1)">e</text>
+    <text className="cls-25" transform="translate(86.28 437.8)">C</text>
+    <text className="cls-10" transform="translate(93.06 437.8)">uidados ge</text>
+    <text className="cls-14" transform="translate(147.92 437.8)">r</text>
+    <text className="cls-10" transform="translate(152.1 437.8)">ais e </text>
+    <text className="cls-10" transform="translate(79.96 452.2)">p</text>
+    <text className="cls-26" transform="translate(86.36 452.2)">r</text>
+    <text className="cls-10" transform="translate(90.58 452.2)">even</text>
+    <text className="cls-12" transform="translate(114.62 452.2)">ç</text>
+    <text className="cls-10" transform="translate(120.05 452.2)">ão da saúde </text>
+    <text className="cls-10" transform="translate(114.77 466.6)">bu</text>
+    <text className="cls-12" transform="translate(127.75 466.6)">c</text>
+    <text className="cls-10" transform="translate(133.17 466.6)">al.</text>
   </g>
   <g className="cls-2">
-    <text className="cls-28" transform="translate(23.44 249.8)">R</text>
-    <text className="cls-11" transform="translate(30.38 249.8)">es</text>
-    <text className="cls-14" transform="translate(41.08 249.8)">t</text>
-    <text className="cls-11" transform="translate(45.11 249.8)">au</text>
-    <text className="cls-15" transform="translate(58.1 249.8)">r</text>
-    <text className="cls-11" transform="translate(62.27 249.8)">a</text>
-    <text className="cls-13" transform="translate(68.74 249.8)">ç</text>
-    <text className="cls-11" transform="translate(74.16 249.8)">ão de den</text>
-    <text className="cls-14" transform="translate(122.74 249.8)">t</text>
-    <text className="cls-11" transform="translate(126.77 249.8)">es </text>
-    <text className="cls-11" transform="translate(22.35 264.2)">au</text>
-    <text className="cls-25" transform="translate(35.34 264.2)">s</text>
-    <text className="cls-11" transform="translate(40.33 264.2)">en</text>
-    <text className="cls-14" transform="translate(52.47 264.2)">t</text>
-    <text className="cls-11" transform="translate(56.51 264.2)">es </text>
-    <text className="cls-31" transform="translate(69.68 264.2)">c</text>
-    <text className="cls-11" transform="translate(75.04 264.2)">om p</text>
-    <text className="cls-28" transform="translate(100 264.2)">r</text>
-    <text className="cls-11" transform="translate(104.22 264.2)">ó</text>
-    <text className="cls-17" transform="translate(110.53 264.2)">t</text>
-    <text className="cls-11" transform="translate(114.56 264.2)">e</text>
-    <text className="cls-26" transform="translate(120.24 264.2)">s</text>
-    <text className="cls-11" transform="translate(125.23 264.2)">es.</text>
+    <text className="cls-8" transform="translate(46.38 224.13) scale(0.98 1)">P</text>
+    <text className="cls-27" transform="translate(57.1 224.13) scale(0.98 1)">r</text>
+    <text className="cls-6" transform="translate(63.91 224.13) scale(0.98 1)">ó</text>
+    <text className="cls-8" transform="translate(74.11 224.13) scale(0.98 1)">t</text>
+    <text className="cls-6" transform="translate(80.63 224.13) scale(0.98 1)">e</text>
+    <text className="cls-28" transform="translate(89.8 224.13) scale(0.98 1)">s</text>
+    <text className="cls-6" transform="translate(97.87 224.13) scale(0.98 1)">e</text>
   </g>
-  <text className="cls-18" transform="translate(68.89 306.1) scale(0.56 1)">&gt;&gt;</text>
-  <path className="cls-32" d="M462.5,166" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M344.5,246" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M305.5,181" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M307.5,231" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M155.5,264" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M257.5,276" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M333.5,389" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-32" d="M316.5,319" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-33" d="M311.7,262.61a16.3,16.3,0,0,1,8.1-4.06,9,9,0,0,1,8.27,2.93c1.67,2.11,2,5,2,7.65.14,10.06-3.19,19.91-7.91,28.79a9.91,9.91,0,0,1-2.51,3.4,3.66,3.66,0,0,1-4,.49,5.42,5.42,0,0,1-1.8-2.3l-3.07-5.86c-.76-1.45-1.9-3.12-3.53-3-1.21.13-2,1.23-2.71,2.24l-5.25,7.86a3.91,3.91,0,0,1-2.37,2c-1.05.15-2.17-.8-2.93-1.71-4.46-5.33-6.59-12-10.17-17.92a34.57,34.57,0,0,1-4.07-11.27c-.62-3.71-.11-7.94,2.64-10.5,2.07-1.93,5-2.56,7.78-3.12,1.62-.32,3.23-.66,4.85-1a6.23,6.23,0,0,1,3.23.32,59.67,59.67,0,0,1,8.41,3A43.3,43.3,0,0,1,311.7,262.61Z" transform="translate(-0.07 -0.04)"/>
-  <path className="cls-34" d="M328.49,258a9,9,0,0,0-7.87-1.77c-9.14,1.7-12.76,13.54-22.69,5,4.61,9.43,14.61,4.75,20.56-.36a6,6,0,0,1,5.68-.14c9.07,4.4-3,39.64-7.52,39.64a2.12,2.12,0,0,1-1.55-.75,14.21,14.21,0,0,1-1.57-2.55c-1.58-3.42-3-8.26-6.66-8.26a3.06,3.06,0,0,0-1.36.33c-4.83,1.7-5.92,12.26-9.6,12.39-1.33,0-2.52-2-3.14-2.9a47.31,47.31,0,0,1-3.85-7.45c-1.36-3.17-3.17-6.16-4.12-9.48s-2.07-6.27-2.41-9.61A19.66,19.66,0,0,1,283,264a7.5,7.5,0,0,1,4.51-3.91c.68-.23,1.56-.56,2.41-.81h0c.46-.11.92-.21,1.39-.29l.59-.11a5.58,5.58,0,0,0,.59-.09,28.29,28.29,0,0,1,4.87-.24,27.08,27.08,0,0,1,6,.94,25.43,25.43,0,0,1,3.08,1.06,4.57,4.57,0,0,1-.57-.41l-.61-.41c-.41-.26-.82-.51-1.24-.75a22.11,22.11,0,0,0-2.58-1.28A25,25,0,0,0,296,256a24.73,24.73,0,0,0-5.7-.34,15.55,15.55,0,0,0-2.44.26,14.24,14.24,0,0,0-1.59.26,6.76,6.76,0,0,0-1.55.64,11.42,11.42,0,0,0-2.87,2.26,10,10,0,0,0-2.92,4.92v.1a13.32,13.32,0,0,0-.5,6.11c.51,8.87,5.41,20.1,10.13,27.75l.31.51a44.66,44.66,0,0,0,4.4,6,3.61,3.61,0,0,0,2.41,1.23c.88,0,2.36.06,3-.6,2.9-1.91,7.09-13.18,8.12-13.22.34,0,.7.7.85.93.48.75.89,1.54,1.3,2.33,1,2,2,4,3.15,6,.35.62.74,1.2,1.12,1.78a15.31,15.31,0,0,0,1.09,1.66l.27.25a2.79,2.79,0,0,0,1.4.85,3,3,0,0,0,2.21-.45,3.66,3.66,0,0,0,.87-.65c.24-.32.5-.67.76-1q1-1.39,1.92-2.85a58.41,58.41,0,0,0,4-7.69c.55-1.25,1.05-2.51,1.51-3.78C332,277.49,335.06,263.34,328.49,258Z" transform="translate(-0.07 -0.04)"/>
+  <g className="cls-2">
+    <text className="cls-26" transform="translate(23.44 249.8)">R</text>
+    <text className="cls-10" transform="translate(30.38 249.8)">es</text>
+    <text className="cls-13" transform="translate(41.08 249.8)">t</text>
+    <text className="cls-10" transform="translate(45.11 249.8)">au</text>
+    <text className="cls-14" transform="translate(58.1 249.8)">r</text>
+    <text className="cls-10" transform="translate(62.27 249.8)">a</text>
+    <text className="cls-12" transform="translate(68.74 249.8)">ç</text>
+    <text className="cls-10" transform="translate(74.16 249.8)">ão de den</text>
+    <text className="cls-13" transform="translate(122.74 249.8)">t</text>
+    <text className="cls-10" transform="translate(126.77 249.8)">es </text>
+    <text className="cls-10" transform="translate(22.35 264.2)">au</text>
+    <text className="cls-23" transform="translate(35.34 264.2)">s</text>
+    <text className="cls-10" transform="translate(40.33 264.2)">en</text>
+    <text className="cls-13" transform="translate(52.47 264.2)">t</text>
+    <text className="cls-10" transform="translate(56.51 264.2)">es </text>
+    <text className="cls-29" transform="translate(69.68 264.2)">c</text>
+    <text className="cls-10" transform="translate(75.04 264.2)">om p</text>
+    <text className="cls-26" transform="translate(100 264.2)">r</text>
+    <text className="cls-10" transform="translate(104.22 264.2)">ó</text>
+    <text className="cls-16" transform="translate(110.53 264.2)">t</text>
+    <text className="cls-10" transform="translate(114.56 264.2)">e</text>
+    <text className="cls-24" transform="translate(120.24 264.2)">s</text>
+    <text className="cls-10" transform="translate(125.23 264.2)">es.</text>
+  </g>
+  <path className="cls-30" d="M462.5,166" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M344.5,246" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M305.5,181" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M307.5,231" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M155.5,264" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M257.5,276" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M333.5,389" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-30" d="M316.5,319" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-31" d="M311.7,262.61a16.3,16.3,0,0,1,8.1-4.06,9,9,0,0,1,8.27,2.93c1.67,2.11,2,5,2,7.65.14,10.06-3.19,19.91-7.91,28.79a9.91,9.91,0,0,1-2.51,3.4,3.66,3.66,0,0,1-4,.49,5.42,5.42,0,0,1-1.8-2.3l-3.07-5.86c-.76-1.45-1.9-3.12-3.53-3-1.21.13-2,1.23-2.71,2.24l-5.25,7.86a3.91,3.91,0,0,1-2.37,2c-1.05.15-2.17-.8-2.93-1.71-4.46-5.33-6.59-12-10.17-17.92a34.57,34.57,0,0,1-4.07-11.27c-.62-3.71-.11-7.94,2.64-10.5,2.07-1.93,5-2.56,7.78-3.12,1.62-.32,3.23-.66,4.85-1a6.23,6.23,0,0,1,3.23.32,59.67,59.67,0,0,1,8.41,3A43.3,43.3,0,0,1,311.7,262.61Z" transform="translate(-0.07 -0.04)"/>
+  <path className="cls-32" d="M328.49,258a9,9,0,0,0-7.87-1.77c-9.14,1.7-12.76,13.54-22.69,5,4.61,9.43,14.61,4.75,20.56-.36a6,6,0,0,1,5.68-.14c9.07,4.4-3,39.64-7.52,39.64a2.12,2.12,0,0,1-1.55-.75,14.21,14.21,0,0,1-1.57-2.55c-1.58-3.42-3-8.26-6.66-8.26a3.06,3.06,0,0,0-1.36.33c-4.83,1.7-5.92,12.26-9.6,12.39-1.33,0-2.52-2-3.14-2.9a47.31,47.31,0,0,1-3.85-7.45c-1.36-3.17-3.17-6.16-4.12-9.48s-2.07-6.27-2.41-9.61A19.66,19.66,0,0,1,283,264a7.5,7.5,0,0,1,4.51-3.91c.68-.23,1.56-.56,2.41-.81h0c.46-.11.92-.21,1.39-.29l.59-.11a5.58,5.58,0,0,0,.59-.09,28.29,28.29,0,0,1,4.87-.24,27.08,27.08,0,0,1,6,.94,25.43,25.43,0,0,1,3.08,1.06,4.57,4.57,0,0,1-.57-.41l-.61-.41c-.41-.26-.82-.51-1.24-.75a22.11,22.11,0,0,0-2.58-1.28A25,25,0,0,0,296,256a24.73,24.73,0,0,0-5.7-.34,15.55,15.55,0,0,0-2.44.26,14.24,14.24,0,0,0-1.59.26,6.76,6.76,0,0,0-1.55.64,11.42,11.42,0,0,0-2.87,2.26,10,10,0,0,0-2.92,4.92v.1a13.32,13.32,0,0,0-.5,6.11c.51,8.87,5.41,20.1,10.13,27.75l.31.51a44.66,44.66,0,0,0,4.4,6,3.61,3.61,0,0,0,2.41,1.23c.88,0,2.36.06,3-.6,2.9-1.91,7.09-13.18,8.12-13.22.34,0,.7.7.85.93.48.75.89,1.54,1.3,2.33,1,2,2,4,3.15,6,.35.62.74,1.2,1.12,1.78a15.31,15.31,0,0,0,1.09,1.66l.27.25a2.79,2.79,0,0,0,1.4.85,3,3,0,0,0,2.21-.45,3.66,3.66,0,0,0,.87-.65c.24-.32.5-.67.76-1q1-1.39,1.92-2.85a58.41,58.41,0,0,0,4-7.69c.55-1.25,1.05-2.51,1.51-3.78C332,277.49,335.06,263.34,328.49,258Z" transform="translate(-0.07 -0.04)"/>
   <path className="cls-1" d="M319.42,274.36a5.71,5.71,0,0,0-5-.22,7.67,7.67,0,0,1,3.83,1.56,15.07,15.07,0,0,1-18.5,5,18.89,18.89,0,0,1-2.72-1.58,22.93,22.93,0,0,1-2.48-1.9,23.82,23.82,0,0,1-2.21-2.17,27.67,27.67,0,0,1-1.91-2.41,25.4,25.4,0,0,1-1.6-2.64,25.11,25.11,0,0,1-2.17-5.81c-.12-.51-.23-1-.31-1.54s-.17-1.29-.29-1.92c-.17-1-.45-2-.61-3.06s-.28-1.88-.51-2.8a19.46,19.46,0,0,1-.35-2c0-.45-.09-.89-.11-1.34a19.8,19.8,0,0,1,.2-4c.07-.49.17-1,.28-1.45l.18-.72a1.21,1.21,0,0,1,.11-.37,2,2,0,0,1,.1-.35,19.6,19.6,0,0,0-1.53,3.44,23.2,23.2,0,0,0-1,3.65,23.68,23.68,0,0,0-.34,3.76c0,.63,0,1.27.06,1.9s.19,1.35.29,2l.33,2.09c.21,1.24.4,2.47.71,3.69a30.75,30.75,0,0,0,2.38,6.28A31,31,0,0,0,290,277a31.82,31.82,0,0,0,2.33,2.46q.63.58,1.29,1.14a17.66,17.66,0,0,0,13.68,3.54,17.85,17.85,0,0,0,12.06-7.44,7,7,0,0,1,2.9,1.63A5.88,5.88,0,0,0,319.42,274.36Z" transform="translate(-0.07 -0.04)"/>
-  <circle className="cls-circle01" cx="123.49" cy="75.18" r="67.5"/>
-  <circle className="cls-35" cx="315.49" cy="108.18" r="67.5"/>
-  <circle className="cls-35" cx="522.49" cy="123.18" r="67.5"/>
-  <circle className="cls-35" cx="500.49" cy="316.18" r="67.5"/>
-  <circle className="cls-35" cx="345.49" cy="461.18" r="67.5"/>
-  <circle className="cls-35" cx="126.49" cy="444.18" r="67.5"/>
-  <circle className="cls-35" cx="76.49" cy="249.18" r="67.5"/>
-  <circle className="cls-35" cx="317.49" cy="107.18" r="67.5"/>
+  <circle className="cls-33" cx="123.49" cy="75.18" r="67.5"/>
+  <circle className="cls-33" cx="315.49" cy="108.18" r="67.5"/>
+  <circle className="cls-33" cx="522.49" cy="123.18" r="67.5"/>
+  <circle className="cls-33" cx="500.49" cy="316.18" r="67.5"/>
+  <circle className="cls-33" cx="345.49" cy="461.18" r="67.5"/>
+  <circle className="cls-33" cx="126.49" cy="444.18" r="67.5"/>
+  <circle className="cls-33" cx="76.49" cy="249.18" r="67.5"/>
+  <circle className="cls-33" cx="317.49" cy="107.18" r="67.5"/>
+  <text className="cls-34" transform="translate(95.39 124.16) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
+  <text className="cls-34" transform="translate(282.64 153.17) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
+  <text className="cls-34" transform="translate(496.8 171.1) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
+  <text className="cls-34" transform="translate(471.08 368.3) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
+  <text className="cls-34" transform="translate(320.26 511.81) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
+  <text className="cls-34" transform="translate(97.41 490.31) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
+  <text className="cls-34" transform="translate(49.59 293.57) scale(0.82 1)"><tspan className="cls-35">S</tspan><tspan x="8.88" y="0">aiba mais</tspan></text>
 </svg>
-
 
     )
 }
