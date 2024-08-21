@@ -691,6 +691,7 @@ body{
   .titulo_principal{
     font-Size:35px; 
     color:#00265b; 
+    line-height: 1.2;
     font-Family:BreeGRK-Regular, Bree GRK; 
     
   }
@@ -722,7 +723,7 @@ body{
   .valores{
   
      padding: 3%;
-     margin: 4rem 0% 0% 0%;
+     margin: 5rem 0% 0% 0%;
      width: 100%;
    position: relative;
     
@@ -737,6 +738,7 @@ body{
   .valores span{
     color: #fff;
     font-size: 25px;
+    line-height: 1.2;
   }
   .valores h1{
     font-size: 12px;
@@ -815,6 +817,7 @@ body{
 }
 .txtEquipe h1{
   font-size: 35px;
+  line-height: 1.2;
   
   
  
