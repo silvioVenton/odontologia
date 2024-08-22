@@ -19,6 +19,7 @@ export const metadata: Metadata = {
   title: "Odontologia Barão de Jundiaí",
   description: "Transformando Vidas através de sorrisos."
   
+  
 
 };
 
@@ -28,7 +29,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
+    
     <html lang="pt-BR">
+      
+      
+      
+      
       
       <body className={inter.className}>
       <a href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
@@ -103,7 +109,7 @@ export default function RootLayout({
       
         <div className="txtEquipe">
           <h1>Nossa especialidade é estar< br/>sempre se especializando.</h1>
-          <h3>Uma equipe de profissionais qualificados em suas profissões e engajados em cuidadar da sua saúde bucal, auto estima e conforto.</h3>
+          <h3>Uma equipe de profissionais qualificados em suas profissões e engajados em cuidadar da sua saúde bucal, autoestima e conforto.</h3>
         </div>
        
         <div className="quadroIndividual">
@@ -286,7 +292,7 @@ Temos como missão a transformação do seu sorriso .
             
             <li>Ortodontia</li>
             <li>Implantodontia</li>
-            <li>Protese</li>
+            <li>Prótese</li>
             <li>Clínica Geral</li>
             <li>Endodontia</li>
             <li>Odontopediatria</li>

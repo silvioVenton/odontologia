@@ -3,7 +3,11 @@
 @tailwind utilities;
 
 *{
-  font-family:BreeGRK-Regular, Bree GRK;
+  font-family: 'Bree GRK';
+  src: url('/fonts/BreeGRK-Regular.ttf') format('ttf'),
+       url('/fonts/BreeGRK-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
 }
 body{
 
@@ -79,7 +83,7 @@ body{
 .titulo_principal{
   font-Size:70px; 
   color:#00265b; 
-  font-Family:BreeGRK-Regular, Bree GRK; 
+   
   font-Weight:700;
 }
 .titulo_sub{
