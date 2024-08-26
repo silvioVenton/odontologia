@@ -7,7 +7,8 @@ import Image from "next/image";
 import Menu from "./components/menu_esp";
 import Form from "./components/formulario";
 import Galeria from "./components/newGaleria"
-
+import { Html, Head, Main, NextScript } from 'next/document';
+import { GoogleTagManager } from "@next/third-parties/google";
 
 
 
@@ -31,7 +32,8 @@ export default function RootLayout({
   return (
     
     <html lang="pt-BR">
-      
+       <GoogleTagManager gtmId="GTM-5RKTS6H5" />
+        
       
       
       
