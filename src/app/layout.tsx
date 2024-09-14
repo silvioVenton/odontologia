@@ -39,7 +39,7 @@ export default function RootLayout({
       
       
       <body className={inter.className}>
-      <a href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
+      <a id="btn_fixo" href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
         <Image
         src="/whatsappLogo.png"
         width={80}
@@ -68,7 +68,7 @@ export default function RootLayout({
             </div>
 
 
-            <a href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
+            <a id="btn_cta" href="https://wa.me/5511944449458?text=Estou%20vindo%20do%20link%20no%20site%20%20e%20gostaria%20de%20agendar%20uma%20avalia%C3%A7%C3%A3o." target="_blank" rel="noopener noreferrer">
             <div className="btn_cta">
               <span>Agende sua consulta </span>
             </div>
@@ -311,7 +311,8 @@ Temos como missão a transformação do seu sorriso .
                 <dd> clinicaodontologicabr1@outlook.com</dd>
             <dt> Endereço:</dt>
                 <dd> Rua Barão de Jundiaí, 938 | Centro </dd>
-                
+            <dt>CNPJ:</dt>  
+                <dd>41.631.065/0001-12</dd>  
           </dl>
 
         </div>
