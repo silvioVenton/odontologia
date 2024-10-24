@@ -269,7 +269,8 @@ Temos como missão a transformação do seu sorriso .
             <h1>Transformando vidas através de sorriso</h1>
           </div>
           <div className="icon_redes">
-            <Image
+            <a href="https://www.facebook.com/clinicabaraodejundiai/" target="_blank" rel="noopener noreferrer">
+              <Image
               src="/logo_face.png"
               width={40}
               height={40}
@@ -277,6 +278,8 @@ Temos como missão a transformação do seu sorriso .
               className="lg_face"
 
             />
+            </a>
+            <a href="https://www.instagram.com/clinica_baraodejundiai/" target="_blank" rel="noopener noreferrer">
             <Image
               src="/logo_insta.png"
               width={40}
@@ -285,6 +288,7 @@ Temos como missão a transformação do seu sorriso .
               className="lg_face"
 
             />
+            </a>
            
           </div>
         </div>

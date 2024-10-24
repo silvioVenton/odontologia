@@ -75,17 +75,30 @@ export default function Cabecalho(){
           <a href="#equipe"><li> Equipe </li></a>
           <li> Depoimentos </li>
           <a href="#contatos"><li> Contatos </li></a>
+          <a href="https://www.instagram.com/clinica_baraodejundiai/"><li>Instagram</li></a>
         </ul>
         
       </div>
-      <a className="btn_agenda" href="#agendamento" style={{backgroundColor:"#67C0BF", padding:".5rem"}}>
+      <div className="menuRedeSociais">
+        <a href="https://www.instagram.com/clinica_baraodejundiai/">
+          <Image
+            src="/instagran-color.png"
+            width={30}
+            height={30}
+            alt="Instagram Clínica"
+          />
+        </a>
+        <a href="https://www.facebook.com/clinicabaraodejundiai/" target="_blank">
+          <Image
+            src="/facebook-color.png"
+            width={30}
+            height={30}
+            alt="Facebook Clínica"
+          />
+        </a>
 
-        
-        
-           <span>Agenda</span>
-
-        
-      </a>
+      </div>
+      
     </div>
     
    )
