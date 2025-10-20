@@ -120,7 +120,7 @@ export default function RootLayout({
           <div className="card">
             <div className="identificaçãoProf">
                 <Image
-                src="/fotos/draVanessa.png"
+                src="/fotos/draVanessaUp.png"
                 width={180}
                 height={150}
                 alt="imagem dentista"
@@ -195,7 +195,7 @@ export default function RootLayout({
 
 
 
-        <div className="individual">
+        {/*<div className="individual">
           <div className="card">
             <div className="identificaçãoProf">
                 <Image
@@ -216,7 +216,7 @@ export default function RootLayout({
               </h3>
             </div>
           </div>
-        </div>
+        </div>*/}
 
 
 
